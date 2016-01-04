@@ -2,7 +2,7 @@
   Calc Fix for the TI-84 Plus CSE
 =====================================
 Created by: o355
-Version: 0.9.1-beta (released 1/2/2016)
+Version: 0.9.2-beta (released 1/3/2016)
 
 =====================================
     BETA SOFTWARE PRERAMBLING
@@ -52,6 +52,7 @@ CFXMODE.8xp will only fix mode issues.
 ====================
 Changelog
 ====================
+v0.9.2-beta: Fixed a minor issue with ZStandard, other fixes.
 v0.9.1-beta: Added the 4 sub programs!
 v0.9-beta: Initial version
 
