@@ -2,22 +2,17 @@
   Calc Fix for the TI-84 Plus CE
 =====================================
 Created by: o355
-Version: 0.8-alpha (released 1/2/2016)
+Version: 0.9-alpha (released 1/3/2016)
 
 =====================================
-    ALPHA SOFTWARE PRERAMBLING
+     BETA SOFTWARE PRERAMBLING
 =====================================
-Please do note, that this is alpha
+Please do note, that this is beta,
 untested software. If this program messes
 up your calculator, it is not my fault.
 You have been warned! If you point your
 finger at me for messing up your calculator,
 I'll laugh at you.
-
-Alpha software is more broken and untested then
-beta software. To let you know. I haven't even
-put this on a TI-84 Plus CE physically or
-emulationally
 
 ====================
 Welcome!
@@ -57,6 +52,7 @@ CFXMODE.8xp will only fix mode issues.
 ====================
 Changelog
 ====================
+v0.9-beta: Bug fixes, and more!
 v0.8-alpha: Initial TI-84 PCE release.
 
 (c) 2015-2016 o355
