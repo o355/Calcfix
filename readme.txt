@@ -2,7 +2,7 @@
   Calc Fix for the TI-84 Plus CE
 =====================================
 Created by: o355
-Version: 0.9-alpha (released 1/3/2016)
+Version: 0.9-beta (released 1/3/2016)
 
 =====================================
      BETA SOFTWARE PRERAMBLING
