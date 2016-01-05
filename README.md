@@ -9,3 +9,5 @@ This program runs entirely automatically, with only 2 inputs to hit enter at the
 On most calculators, there will be the all program, and sub-programs that can fix a certain issue if you know what the issue is, so you don't have to go through the entire fix program, which can help cut time in fixing an issue.
 
 All programs are tested before their release to make sure everything works, as reliability is the most important thing with this program.
+
+In some cases, the all program can actually free up some space! (tested to free up around 6-7 KB on a TI-84 Plus CE with the early versions)
