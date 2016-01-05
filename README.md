@@ -2,8 +2,10 @@
 Calcfix (or Calculator Fix) has one simple mission:
 Fix your graphing calculator before class!
 
-If you've ever been in class, and your graphing is totally messed up, or someone messed with your settings, this in-dev program can fix it.
+If you've ever been in class, and your graphing is totally messed up, or someone messed with your settings, Calcfix can fix it. Whether it's from a classmate fooling with your window settings, or a program you ran that messed something up, this will fix it, without diving through the memory window, or having to reset your calculator entirely.
 
-At the end, this should be compatible with the TI-73 Explorer, TI-83 Plus, TI-83 Plus Silver Editon, TI-84 Plus, TI-84 Plus Silver Edition, TI-84 Plus C Silver Edition, and TI-84 Plus CE. Compatibility for the TI-81, TI-82, TI-85, and TI-86 are to be desired.
+This program runs entirely automatically, with only 2 inputs to hit enter at the beginning, and for a garbage collect (on the all & garbage collect programs).
 
-At this point, the program is in-dev, meaning there will likely be broken code, or stuff that hasn't been done yet. Please, do not use the in-dev code, as there will be incomplete, or broken things, unless you want to.
+On most calculators, there will be the all program, and sub-programs that can fix a certain issue if you know what the issue is, so you don't have to go through the entire fix program, which can help cut time in fixing an issue.
+
+All programs are tested before their release to make sure everything works, as reliability is the most important thing with this program.
