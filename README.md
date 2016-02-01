@@ -1,4 +1,7 @@
 # calcfix
+
+PLEASE NOTE: This project IS NOT abandoned. I just haven't found the time to develop for the program at all.
+
 Calcfix (or Calculator Fix) has one simple mission:
 Fix your graphing calculator before class!
 
