@@ -2,26 +2,26 @@
   Calc Fix for the TI-84 Plus CE
 =====================================
 Created by: o355
-Version: 0.9.3-beta (released 2/13/2016)
+Version: 1.0.0 (2/23/2016)
 
 =====================================
-     BETA SOFTWARE PRERAMBLING
+         A NOTE FROM ME:
 =====================================
-Please do note, that this is beta,
-untested software. If this program messes
-up your calculator, it is not my fault.
-You have been warned! If you point your
-finger at me for messing up your calculator,
-I'll laugh at you.
+This is my very first TI-BASIC program.
+I'm open to constructive critism, but
+please, don't steal this program, or
+steal any of this code. I know it's
+basic code, but it took me some time to
+get the hang of it, and test this.
 
 ====================
 Welcome!
 ====================
 Calcfix is designed so you don't have to
-panic after something screwed up settings,
-or graphing. 
-
-By the way, it's pretty easy to use.
+panic after a program, or yourself screwed
+up a part of your calculator. Calcfix
+will in a matter of seconds have your
+calculator back and running again.
 
 ====================
 Installing
@@ -52,6 +52,7 @@ CFXMODE.8xp will only fix mode issues.
 ====================
 Changelog
 ====================
+v1.0.0: Full release, updated readme
 v0.9.3-beta: Fixes a RAM reset bug
 v0.9.2-beta: Individual DYKs, bug fixes.
 v0.9.1-beta: Bug fixes
