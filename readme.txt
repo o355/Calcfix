@@ -2,7 +2,7 @@
   Calc Fix for the TI-84 Plus CE
 =====================================
 Created by: o355
-Version: 1.0.0 (2/23/2016)
+Version: 1.0.1 (2/26/2016)
 
 =====================================
          A NOTE FROM ME:
@@ -52,6 +52,7 @@ CFXMODE.8xp will only fix mode issues.
 ====================
 Changelog
 ====================
+v1.0.1: Small updates to the .zip files
 v1.0.0: Full release, updated readme
 v0.9.3-beta: Fixes a RAM reset bug
 v0.9.2-beta: Individual DYKs, bug fixes.
