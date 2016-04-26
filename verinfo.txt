@@ -1,0 +1,18 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+       CALCFIX
+  VERSION INFORMATION
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Check the official GitHub page, to check for the latest version.
+Program coming to the ticalc/Cemetech archives, eventually.
+
+Simple stuff:
+Version: v1.1
+Type: TI-84 Plus CE
+Updated: 4/26/2016
+
+Advanced stuff:
+build version: 1.1-84pce-default
+build date: 4262016-1202UTC
+build number: 84-4-102-1
+file name: Calcfix-v1.1-84PCE.zip

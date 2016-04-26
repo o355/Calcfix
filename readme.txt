@@ -2,7 +2,7 @@
   Calc Fix for the TI-84 Plus CE
 =====================================
 Created by: o355
-Version: 1.0.1 (2/26/2016)
+Version: 1.1 (4/26/2016)
 
 =====================================
          A NOTE FROM ME:
@@ -40,18 +40,23 @@ programs with the prefix CFX, and open it.
 Read the programs section below to get a
 sense of what program is what program.
 
+These programs can be ran archived, and
+launched by Cesium.
+
 ====================
 Programs
 ====================
-CFXALL.8xp will fix all the issues it can.
+CFXALL.8xp will fix all the issues it can, except clearing lists, and garbage collecting.
 CFXGRPH.8xp will fix all graphing issues (format, window)
 CFXWIND.8xp will only fix window issues
 CFXGRCL.8xp will only do a garbage collect.
 CFXMODE.8xp will only fix mode issues.
+CFXLIST.8xp will reset all lists.
 
 ====================
 Changelog
 ====================
+v1.1: Bug fixes, and a new program clearing lists.
 v1.0.1: Small updates to the .zip files
 v1.0.0: Full release, updated readme
 v0.9.3-beta: Fixes a RAM reset bug
