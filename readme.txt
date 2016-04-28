@@ -2,7 +2,7 @@
   Calc Fix for the TI-84 Plus CE
 =====================================
 Created by: o355
-Version: 1.1 (4/26/2016)
+Version: 1.1.2 (4/26/2016)
 
 =====================================
          A NOTE FROM ME:
@@ -56,6 +56,7 @@ CFXLIST.8xp will reset all lists.
 ====================
 Changelog
 ====================
+v1.1.2: Bug fixes with the list program
 v1.1: Bug fixes, and a new program clearing lists.
 v1.0.1: Small updates to the .zip files
 v1.0.0: Full release, updated readme
