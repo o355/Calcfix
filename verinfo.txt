@@ -6,13 +6,17 @@
 Check the official GitHub page, to check for the latest version.
 Program coming to the ticalc/Cemetech archives, eventually.
 
+Check for updates on GitHub: https://github.com/o355/calcfix/releases
+Check for updates on Cemetech: Coming soon!
+Check for updates on TiCalc: Coming soon!
+
 Simple stuff:
-Version: v1.1.2
+Version: v1.2
 Type: TI-84 Plus CE
-Updated: 4/26/2016
+Updated: 5/19/2016
 
 Advanced stuff:
-build version: 1.1.2-84pce-default
-build date: 4262016-2200UTC
-build number: 84-4-103-1
-file name: Calcfix-v1.1.2-84PCE.zip
+build version: 1.2-84pce-default
+build date: 4262016-1211UTC
+build number: 84-4-104-1
+file name: Calcfix-v1.2-84PCE.zip
