@@ -1,0 +1,22 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+       CALCFIX
+  VERSION INFORMATION
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Check the official GitHub page, to check for the latest version.
+Program coming to the ticalc/Cemetech archives, eventually.
+
+Check for updates on GitHub: https://github.com/o355/calcfix/releases
+Check for updates on Cemetech: Coming soon!
+Check for updates on TiCalc: Coming soon!
+
+Simple stuff:
+Version: v1.3c-beta2
+Type: Color Edition
+Updated: 5/25/2016
+
+Advanced stuff:
+build version: 1.3-coloredition-default-BETA
+build date: 20160525-1535UTC
+build number: color-210-1
+file name: Calcfix-v1.3-beta2-Color.zip
