@@ -2,7 +2,7 @@
   Calc Fix for Color Calculators
 =====================================
 Created by: o355
-Version: 1.3c-beta1 (5/25/2016)
+Version: 1.3c-beta2 (5/25/2016)
 
 =====================================
          A NOTE FROM ME:
