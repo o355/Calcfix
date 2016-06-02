@@ -2,7 +2,7 @@
   Calc Fix for Color Calculators
 =====================================
 Created by: o355
-Version: 1.3c-beta2 (5/25/2016)
+Version: 1.3-color (6/3/2016)
 
 =====================================
          A NOTE FROM ME:
@@ -13,19 +13,6 @@ please, don't steal this program, or
 steal any of this code. I know it's
 basic code, but it took me some time to
 get the hang of it, and test this.
-
-======================
-BETA SOFTWARE DISCLAMER
-======================
-This is beta software. Beta software contains
-bugs, unfinished stuff, and is unstable. Don't
-use the 1.3 beta for a stable 1.3 build, instead,
-wait for the stable 1.3 build to come out (better wait
-for later editions like 1.3.1, 1.3.2).
-
-If you find a bug, it'd help a ton if you posted it on
-GitHub, as an issue. Doing such for an actual bug will get you a credit
-on future stable and beta releases for 1.3.
 
 ====================
 Disclaimers
@@ -106,7 +93,7 @@ CFXLIST.8xp will reset all lists.
 ====================
 Changelog
 ====================
-v1.3: New version naming, and lots of tiny little improvements
+v1.3: New version naming, new apperance system, more bugs fixed.
 
 ===================================
 TI-84 Plus CE old version changelog
