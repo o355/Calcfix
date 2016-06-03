@@ -1,7 +1,5 @@
 # calcfix
 
-PLEASE NOTE: This project IS NOT abandoned. I just haven't found the time to develop for the program at all.
-
 Calcfix (or Calculator Fix) has one simple mission:
 Fix your graphing calculator before class!
 
@@ -14,3 +12,5 @@ On most calculators, there will be the all program, and sub-programs that can fi
 All programs are tested before their release to make sure everything works, as reliability is the most important thing with this program.
 
 In some cases, the all program can actually free up some space! (tested to free up around 6-7 KB on a TI-84 Plus CE with the early versions)
+
+That's why Calcfix was made. To fix that dumb problem of things getting broken, and your teacher erasing your beautiful "I LOVE MATH" drawing in Cabri Jr.
