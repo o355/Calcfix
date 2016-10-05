@@ -1,7 +1,7 @@
-# calcfix
-
-# Calcfix - End of Development:
+# Calcfix - End of Development Notice:
 Calcfix development has ended. While fun, I have gotten bored of coding for TI calculators, and the program is really at the best state it can be at. 
+
+# Welcome to Calcfix!
 
 Calcfix (or Calculator Fix) has one simple mission:
 Fix your graphing calculator before class!
