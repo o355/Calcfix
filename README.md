@@ -1,5 +1,5 @@
 # Calcfix - End of Development Notice:
-Calcfix development has ended. While fun, I have gotten bored of coding for TI calculators, and the program is really at the best state it can be at. 
+Calcfix development has ended. While fun, I have gotten bored of coding for TI calculators, and the program is really at the best state it can be at. Bug fixes or minor features might be applied in the near future.
 
 # Welcome to Calcfix!
 
